@@ -1,0 +1,48 @@
+Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Top Team Scorer,Goalkeeper,Notes,Team,Leading_scorer_goals,Scorer_share_pct
+1,es Spain,8,7,1,0,14,1,13,22,Mikel Oyarzabal - 5,Unai Simón,,Spain,5.0,35.714285714285715
+2,ar Argentina,8,7,0,1,19,8,11,21,Lionel Messi - 8,Emiliano Martínez,,Argentina,8.0,42.10526315789474
+3,eng England,8,6,1,1,20,12,8,19,Jude Bellingham - 7,Jordan Pickford,,England,7.0,35.0
+4,fr France,8,6,0,2,20,10,10,18,Kylian Mbappé - 10,Mike Maignan,,France,10.0,50.0
+QF,no Norway,6,4,0,2,13,11,2,12,Erling Haaland - 7,Ørjan Nyland,,Norway,7.0,53.84615384615385
+QF,be Belgium,6,3,2,1,14,7,7,11,Romelu Lukaku Charles De Ketelaere - 3,Thibaut Courtois,,Belgium,3.0,21.428571428571427
+QF,ma Morocco,6,3,2,1,10,6,4,11,Ismael Saibari - 3,Yassine Bounou,,Morocco,3.0,30.0
+QF,ch Switzerland,6,3,2,1,10,6,4,11,Johan Manzambi - 3,Gregor Kobel,,Switzerland,3.0,30.0
+R16,mx Mexico,5,4,0,1,10,3,7,12,Julián Quiñones - 4,Raúl Rangel,,Mexico,4.0,40.0
+R16,co Colombia,5,3,2,0,5,1,4,11,Daniel Muñoz - 2,Camilo Vargas,,Colombia,2.0,40.0
+R16,br Brazil,5,3,1,1,10,4,6,10,Vinicius Júnior - 4,Alisson,,Brazil,4.0,40.0
+R16,us USA,5,3,0,2,11,8,3,9,Folarin Balogun - 3,Matt Freese,,USA,3.0,27.272727272727273
+R16,pt Portugal,5,2,2,1,8,3,5,8,Cristiano Ronaldo - 3,Diogo Costa,,Portugal,3.0,37.5
+R16,ca Canada,5,2,1,2,9,6,3,7,Jonathan David - 3,Maxime Crépeau,,Canada,3.0,33.333333333333336
+R16,eg Egypt,5,1,3,1,8,7,1,6,Emam Ashour Mostafa Ziko - 2,Mostafa Shobeir,,Egypt,2.0,25.0
+R16,py Paraguay,5,1,2,2,3,6,-3,5,Matías Galarza Julio Enciso... - 1,Orlando Gill,,Paraguay,1.0,33.333333333333336
+R32,nl Netherlands,4,2,2,0,11,5,6,8,Cody Gakpo Brian Brobbey - 3,Bart Verbruggen,,Netherlands,3.0,27.272727272727273
+R32,de Germany,4,2,1,1,11,5,6,7,Deniz Undav Kai Havertz - 3,Manuel Neuer,,Germany,3.0,27.272727272727273
+R32,ci Côte d'Ivoire,4,2,0,2,5,4,1,6,Nicolas Pépé Amad Diallo - 2,Yahia Fofana,,Côte d'Ivoire,2.0,40.0
+R32,hr Croatia,4,2,0,2,6,7,-1,6,Ivan Perišić Nikola Vlašić... - 1,Dominik Livaković,,Croatia,1.0,16.666666666666668
+R32,jp Japan,4,1,2,1,8,5,3,5,Daichi Kamada Ayase Ueda - 2,Zion Suzuki,,Japan,2.0,25.0
+R32,au Australia,4,1,2,1,3,3,0,5,Connor Metcalfe Nestory Irankunda - 1,Patrick Beach,,Australia,1.0,33.333333333333336
+R32,cd Congo DR,4,1,1,2,5,5,0,4,Yoane Wissa - 3,Lionel Mpasi,,Congo DR,3.0,60.0
+R32,gh Ghana,4,1,1,2,2,3,-1,4,Derrick Luckassen Caleb Yirenkyi - 1,Benjamin Asare,,Ghana,1.0,50.0
+R32,ec Ecuador,4,1,1,2,2,4,-2,4,Gonzalo Plata Nilson Angulo - 1,Hernán Galíndez,,Ecuador,1.0,50.0
+R32,za South Africa,4,1,1,2,2,4,-2,4,Teboho Mokoena Thapelo Maseko - 1,Ronwen Williams,,South Africa,1.0,50.0
+R32,se Sweden,4,1,1,2,7,10,-3,4,Anthony Elanga Yasin Ayari - 2,Kristoffer Nordfeldt Jacob Widell Zetterström,,Sweden,2.0,28.571428571428573
+R32,at Austria,4,1,1,2,6,9,-3,4,Marko Arnautović - 2,Alexander Schlager,,Austria,2.0,33.333333333333336
+R32,ba Bosnia–Herz,4,1,1,2,5,8,-3,4,Ermin Mahmić - 2,Nikola Vasilj,,Bosnia–Herz,2.0,40.0
+R32,dz Algeria,4,1,1,2,5,9,-4,4,Riyad Mahrez - 2,Luca Zidane,,Algeria,2.0,40.0
+R32,sn Senegal,4,1,0,3,10,9,1,3,Ismaila Sarr - 4,Mory Diaw,,Senegal,4.0,40.0
+R32,cv Cabo Verde,4,0,3,1,4,5,-1,3,Deroy Duarte Kevin Pina... - 1,Vozinha,,Cabo Verde,1.0,25.0
+GR,ir IR Iran,3,0,3,0,3,3,0,3,Ramin Rezaeian - 2,Alireza Beiranvand,,IR Iran,2.0,66.66666666666667
+GR,kr Korea Republic,3,1,0,2,2,3,-1,3,Hwang In-beom Oh Hyeon-gyu - 1,Kim Seung-gyu,,Korea Republic,1.0,50.0
+GR,tr Türkiye,3,1,0,2,3,5,-2,3,Kaan Ayhan Barış Alper Yılmaz... - 1,Uğurcan Çakır,,Türkiye,1.0,33.333333333333336
+GR,sct Scotland,3,1,0,2,1,4,-3,3,John McGinn - 1,Angus Gunn,,Scotland,1.0,100.0
+GR,uy Uruguay,3,0,2,1,3,4,-1,2,Maxi Araújo - 2,Fernando Muslera,,Uruguay,2.0,66.66666666666667
+GR,sa Saudi Arabia,3,0,2,1,1,5,-4,2,Abdulelah Al-Amri - 1,Mohammed Al-Owais,,Saudi Arabia,1.0,100.0
+GR,cz Czechia,3,0,1,2,2,6,-4,1,Ladislav Krejčí Michal Sadílek - 1,Matej Kovar,,Czechia,1.0,50.0
+GR,nz New Zealand,3,0,1,2,4,10,-6,1,Elijah Just - 3,Max Crocombe,,New Zealand,3.0,75.0
+GR,qa Qatar,3,0,1,2,2,10,-8,1,Hassan Al-Haydos Boualem Khoukhi - 1,Mahmoud Abunada,,Qatar,1.0,50.0
+GR,cw Curaçao,3,0,1,2,1,9,-8,1,Livano Comenencia - 1,Eloy Room,,Curaçao,1.0,100.0
+GR,jo Jordan,3,0,0,3,3,8,-5,0,Musa Al-Taamari Ali Olwan... - 1,Yazeed Abulaila,,Jordan,1.0,33.333333333333336
+GR,ht Haiti,3,0,0,3,2,8,-6,0,Wilson Isidor - 1,Johny Placide,,Haiti,1.0,50.0
+GR,uz Uzbekistan,3,0,0,3,2,11,-9,0,Eldor Shomurodov Abbosbek Fayzullayev - 1,Abduvohid Nematov,,Uzbekistan,1.0,50.0
+GR,tn Tunisia,3,0,0,3,2,12,-10,0,Omar Rekik Hazem Mastouri - 1,Aymen Dahmen,,Tunisia,1.0,50.0
+GR,iq Iraq,3,0,0,3,1,12,-11,0,Ayman Hussein - 1,Jalal Hassan Ahmed Basil,,Iraq,1.0,100.0
